@@ -19,17 +19,19 @@ Then, I design models and do migrations to set up the database. I also explore t
 - Getting and outputting data from the database
 - Adding data to the database
 
-****Here some examples****
----------------------------------------------**Home Page**
+                                                         **Here some examples** 
+
+
+**Home Page**
 ![Home Page](https://user-images.githubusercontent.com/114343772/210252041-b96d0f33-399b-4848-9acb-802d4fa2c6c3.png)
 ----------------------------------------------------------------------------------------------------------------------------
---------------------------------------------**Create Task Page**
+**Create Task Page**
 ![Create Task Page](https://user-images.githubusercontent.com/114343772/210252057-0bde6a8d-fd23-44d3-a3d2-ee9155282cca.png)
 ----------------------------------------------------------------------------------------------------------------------------
---------------------------------------------About Me Page
+**About Me Page**
 ![About Me page](https://user-images.githubusercontent.com/114343772/210252067-090ba73d-cd35-4bd0-b938-3004e97b64db.png)
 ----------------------------------------------------------------------------------------------------------------------------
---------------------------------------------**Admin Panel Page**
+**Admin Panel Page**
 ![Admin Panel](https://user-images.githubusercontent.com/114343772/210252063-edcdc78e-a571-431b-a401-4c4d08cb1c78.png)
 ----------------------------------------------------------------------------------------------------------------------------
 
